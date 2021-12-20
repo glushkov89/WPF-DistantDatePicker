@@ -1,6 +1,6 @@
 # WPF-DistantDatePicker
  WPF custom datepicker control for distant dates (birthday etc.)
-Implemented according to 
+Implemented according to <br />
 https://blog.prototypr.io/best-practice-for-date-of-birth-form-fields-91bf67bb3640
 
 ![DistantDatePicker](https://i.postimg.cc/SNSW9JFV/Untitled.png "Screenshot")
